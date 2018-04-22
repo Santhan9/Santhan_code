@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/ADMIN/Desktop/Softwares/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_161/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_161/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_161/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_161/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_161/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_161/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_161/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_161/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_161/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_161/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jre1.8.0_161/lib/rt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
